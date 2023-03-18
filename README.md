@@ -1,4 +1,4 @@
-# WhatsApp AuotReply
+# WhatsApp AuotoReply
 
 Usually, my friends WhatsApp me late at night regarding some work thinking that I'm awake and will reply before morning. 
 Thus, I made this WhatsApp bot using selenium in Python which automatically responds to your friend's text (if they send one) that you're sleeping and thus won't be able to reply before morning!
