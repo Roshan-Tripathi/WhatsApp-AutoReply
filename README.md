@@ -13,8 +13,8 @@ Also, when you wake up, you'll know who texted you!
 **Install Selenium Using command:** pip3 install selenium
 
 **Install Chrome Driver:**
-1. Go to Customize and Control Google Chrome > Help > About Google Chrome to check the version of Chrome Driver.
-![save2](https://user-images.githubusercontent.com/45245975/93358162-c7261f00-f85e-11ea-8ac2-038c65b2c4bf.PNG)
+1. Go to settings > About Google Chrome to check the version of Chrome Driver.
+<img width="706" alt="Screenshot 2023-03-18 at 12 27 31 PM" src="https://user-images.githubusercontent.com/128136329/226090533-3d74328f-ed1c-4a52-8d34-7bfe7104de14.png">
 
 2. Click on https://chromedriver.chromium.org/downloads and download the desired driver.
 
@@ -22,7 +22,7 @@ Also, when you wake up, you'll know who texted you!
 
 1. Run the code.
 2. The code will automatically open Whatsapp Web in Chrome where you're supposed to scan the QR code.
-![whatsapp_web](https://user-images.githubusercontent.com/45245975/91994399-30346f80-ed54-11ea-91a2-098d851ac10d.PNG)
+<img width="1440" alt="Screenshot 2023-03-18 at 12 30 22 PM" src="https://user-images.githubusercontent.com/128136329/226090621-42508193-baa4-4ed2-a8d9-081107009def.png">
 3. Sleep Well! :)
 
 ## Working of the bot
